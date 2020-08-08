@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+New grad looking for an entry level full-time position as a Data Scientist | Software Engineer.
+
+- *Education:* M.Sc & M.Ing in Computer Science
+- *Interests:* Natural Language Processing | Quantitative Finance
+- *Contact:* dimitri.sifoua@gmail.com | +1 (438) 356-8003
+
 <!--
 **dksifoua/dksifoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
