@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-New grad looking for an entry level full-time position as a Data Scientist | Software Engineer.
+New grad looking for a full-time position as a Data Scientist | Software Engineer.
 
 - *Education:* M.Sc & M.Ing in Computer Science
 - *Interests:* Natural Language Processing | Quantitative Finance | Reinforcement Learning
