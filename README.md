@@ -2,7 +2,7 @@
 
 New grad looking for a full-time position as a Data Scientist | Software Engineer.
 
-- *Education:* M.Sc & M.Ing in Computer Science
+- *Education:* M.Sc in Computer Science
 - *Interests:* Natural Language Processing | Quantitative Finance | Reinforcement Learning
 - *Contact:* dimitri.sifoua@gmail.com | +1 (438) 356-8003
 
