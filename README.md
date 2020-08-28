@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 New grad looking for a full-time position as a Data Scientist | Software Engineer.
 
-- *Education:* M.Sc in Computer Science
-- *Interests:* Natural Language Processing | Quantitative Finance | Reinforcement Learning | Computer Vision
-- *Contact:* dimitri.sifoua@gmail.com | +1 (438) 356-8003
+- 🔭 I’m currently working on: [Neural Machine Translation](https://github.com/dksifoua/Neural-Machine-Translation), [Store](https://github.com/dksifoua/store), [Reinforcement Learning](https://github.com/dksifoua/Reinforcement-Learning)
+- 🌱 I’m currently learning: NLP, RL, Quantitative Finance and CV.
+- 💬 Ask me about anything related to Python/Java/SQL/Scala or SpringBoot/React/Express/Django/Flask/PyTorch/TensorFlow2x.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/dksifoua)
 
 <!--
 **dksifoua/dksifoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
