@@ -20,8 +20,6 @@ New grad looking for a full-time position as a Data Scientist | Software Enginee
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dksifoua&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dksifoua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **dksifoua/dksifoua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
