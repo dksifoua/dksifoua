@@ -2,8 +2,8 @@
 
 New grad looking for a full-time position as a Data Scientist | Software Engineer.
 
-- 🔭 I’m currently working on: [Neural Machine Translation](https://github.com/dksifoua/Neural-Machine-Translation), [Store](https://github.com/dksifoua/store), [Reinforcement Learning](https://github.com/dksifoua/Reinforcement-Learning)
-- 🌱 I’m currently learning: NLP, RL, Quantitative Finance and CV.
+- 🔭 I’m currently working on: [Question Answering](https://github.com/dksifoua/Question-Answering).
+- 🌱 I’m interested in: ***Natural Language Processing, Computer Vision and Reinforcement Learning***.
 - 💬 Ask me about anything [here](https://github.com/dksifoua/dksifoua/issues).
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/dksifoua).
 
