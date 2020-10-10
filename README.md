@@ -13,7 +13,6 @@ New grad looking for a full-time position as a Data Scientist | Software Enginee
 <code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/keras-text.svg"></code>
 <code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg"></code>
 <code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code>
-<code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/mxnet.svg"></code>
 <code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/spark.svg"></code>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dksifoua&show_icons=true)
