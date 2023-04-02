@@ -1,4 +1,7 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Github Stars](https://img.shields.io/badge/stars-nominate-brightgreen?logo=github)](https://stars.github.com/nominate/)
+![Profile Views](https://komarev.com/ghpvc/?username=dksifoua&style=flat)
+
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Experienced (3+ years) Software Engineer in Data, Machine Learning & Ops.
 
