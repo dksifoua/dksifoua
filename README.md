@@ -11,7 +11,7 @@ Experienced (3+ years) Software Engineer in Data, Machine Learning & Ops.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/dksifoua).
 
 <a href="https://github.com/dksifoua">
-  <img src="https://github-readme-stats.vercel.app/api?username=dksifoua&show_icons=true&count_private=true&hide=contribs&custom_title=GitHub%20Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dksifoua&show_icons=true&count_private=true&custom_title=GitHub%20Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dksifoua&layout=compact&langs_count=10&hide=Jupyter%20Notebook" />
 </a>
 
