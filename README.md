@@ -1,5 +1,7 @@
-[![Github Stars](https://img.shields.io/badge/stars-nominate-brightgreen?logo=github)](https://stars.github.com/nominate/)
-![Profile Views](https://komarev.com/ghpvc/?username=dksifoua&style=flat)
+[![Leetcode Rating](https://cp-logo.vercel.app/leetcode/dksifoua)](https://cp-logo.vercel.app/leetcode/dksifoua)
+[![StackOverflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/8248523?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/8248523/dimitri-sifoua)
+[![GitHub Followers](https://img.shields.io/github/followers/dksifoua?color=green&logo=github)](https://github.com/dksifoua?tab=followers)
+[![Profil Views](https://komarev.com/ghpvc/?username=dksifoua)](https://github.com/dksifoua)
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
