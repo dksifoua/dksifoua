@@ -15,7 +15,7 @@ Experienced (3+ years) Software Engineer in Data, Machine Learning & Ops.
 <hr />
 
 <a href="https://www.credly.com/users/dksifoua/badges">
-  <img src="https://images.credly.com/size/200x200/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" />
+  <img width="200" height="200" src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" />
   <img src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
   <img src="https://images.credly.com/size/200x200/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" />
   <img src="https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
